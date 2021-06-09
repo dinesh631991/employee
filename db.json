@@ -1,1 +1,30 @@
-{"name": [1,2,3]}
+{
+  "fruits": [
+    {
+      "id": "11",
+      "name": "Orange"
+    },
+    {
+      "id": "12",
+      "name": "Apple"
+    },
+    {
+      "id": "13",
+      "name": "Grape"
+    }
+  ],
+  "sports": [
+    {
+      "id": "22",
+      "name": "Footbal"
+    },
+    {
+      "id": "26",
+      "name": "Tennis"
+    },
+    {
+      "id": "23",
+      "name": "Cricket"
+    }
+  ]
+}
