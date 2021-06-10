@@ -1,30 +1,28 @@
 {
-  "fruits": [
+  "employeeList": [
     {
-      "id": "11",
-      "name": "Orange"
+        "employeeId": "54321",
+        "employeeName": "Alexander",
+        "age": "28",
+        "mobileNumber": "976543210",
+        "email": "alexander@gmail.com",
+        "designation": "Senior Developer",
+        "joiningDate": "18-05-2018",
+        "dateOfBirth": "15-06-1991",
+        "gender": "Male",
+        "vaccinated": false
     },
     {
-      "id": "12",
-      "name": "Apple"
-    },
-    {
-      "id": "13",
-      "name": "Grape"
+        "employeeId": "67890",
+        "employeeName": "Salah",
+        "age": "22",
+        "mobileNumber": "8765456782",
+        "email": "salah@gmail.com",
+        "designation": "Team Lead",
+        "joiningDate": "17-05-2019",
+        "dateOfBirth": "22-12-1999",
+        "gender": "Male",
+        "vaccinated": true
     }
-  ],
-  "sports": [
-    {
-      "id": "22",
-      "name": "Footbal"
-    },
-    {
-      "id": "26",
-      "name": "Tennis"
-    },
-    {
-      "id": "23",
-      "name": "Cricket"
-    }
-  ]
+]
 }
